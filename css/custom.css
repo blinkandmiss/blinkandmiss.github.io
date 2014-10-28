@@ -48,6 +48,11 @@ footer {
 	padding: 0 50px;
 }
 
+.modal-content iframe {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
 .btn-lg {
 	font-size: 36px;
 }
